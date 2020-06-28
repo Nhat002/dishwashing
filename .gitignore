@@ -13,3 +13,7 @@
 
 # Dependency directories (remove the comment below to include it)
 vendor/
+
+dishwashing_part1
+!dishwashing_part1/
+main
